@@ -42,7 +42,7 @@ margin: 0 auto;
     color:var(--branco);
     display: flex;
     justify-content: center;
-    padding: lem;
+    padding: 1em;
     font-size: 18px;
     align-items: center;
     width: 100%;
